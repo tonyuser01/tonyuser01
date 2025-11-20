@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andrew !</h1>
-- 🔭 I’m currently working on [Snack Dash: Pug Escape (Godot, GDScript)](https://github.com/tonyuser01/pug_game)
+<h3 align="center"> I possess full-stack development experience, proficient in back-end technologies like Java
+and Spring, and front-end skills in TypeScript, HTML, and CSS. My expertise is further strengthened
+by certifications such as CompTIA Security+ and HTB Certified Junior Cybersecurity Associate, with
+Cisco CCNA currently in progress, demonstrating a strong foundation in cybersecurity and networking. </h3>
+🔭 I’m currently working on [Snack Dash: Pug Escape (Godot, GDScript)](https://github.com/tonyuser01/pug_game)
 
-- 👯 I’m looking to collaborate on **Cybersecurity related projects**
+👯 I’m looking to collaborate on **Cybersecurity related projects**
 
-- 📫 How to reach me **davidescu.andrei.cristian@gmail.com**
+📫 How to reach me **davidescu.andrei.cristian@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andrei-cristian-davidescu-2b3a92300/](https://www.linkedin.com/in/andrei-cristian-davidescu-2b3a92300/)
+📄 Know about my experiences [https://www.linkedin.com/in/andrei-cristian-davidescu-2b3a92300/](https://www.linkedin.com/in/andrei-cristian-davidescu-2b3a92300/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
