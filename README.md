@@ -9,8 +9,6 @@ Cisco CCNA currently in progress, demonstrating a strong foundation in cybersecu
 
 📫 How to reach me **davidescu.andrei.cristian@gmail.com**
 
-📄 Know about my experiences [https://www.linkedin.com/in/andrei-cristian-davidescu-2b3a92300/](https://www.linkedin.com/in/andrei-cristian-davidescu-2b3a92300/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
